@@ -5,3 +5,7 @@ Lista del súper:
 3. Melón
 4. Nueces
 5. Almendras
+6. Calabaza
+7. Lechugas
+8. Jitomate
+9. Papa
