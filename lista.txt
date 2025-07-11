@@ -9,3 +9,5 @@ Lista del súper:
 7. Lechugas
 8. Jitomate
 9. Papa
+10. Lechuga
+11. Tomate
